@@ -11,17 +11,17 @@ This repository contains all my laboratory exercises, quizzes, and final exam so
 * **Procedure & Stack Management**: Implementing reusable procedures and managing the stack for parameter passing.
 
 ## Lab and Assessment Index
-* **Lab 01**: [Data Declaration & Basic Data Transfer](Lab01/README.md)
-* **Lab 02**: [Array Manipulation and Loops](Lab02/README.md)
-* **Lab 03**: [Addressing Modes](Lab03/README.md)
-* **Lab 04**: [Procedures and Subroutines](Lab04/README.md)
-* **Lab 05**: [Conditional Structures and Jumps](Lab05/README.md)
-* **Lab 06**: [Advanced Procedures and Stack Usage](Lab06/README.md)
-* **Lab 07**: [String Manipulation and Palindrome Check](Lab07/README.md)
-* **Lab 08**: [Encryption and Decryption Algorithms](Lab08/README.md)
-* **Quiz 01**: [Quiz 1 Solution](Quiz01/README.md)
-* **Quiz 02**: [Quiz 2 Solution](Quiz02/README.md)
-* **Final Exam**: [Final Exam Solution](FinalExam/README.md)
+* **Lab 01**: [Data Declaration & Basic Data Transfer](Lab01/readme.md)
+* **Lab 02**: [Array Manipulation and Loops](Lab02/readme.md)
+* **Lab 03**: [Addressing Modes](Lab03/readme.md)
+* **Lab 04**: [Procedures and Subroutines](Lab04/readme.md)
+* **Lab 05**: [Conditional Structures and Jumps](Lab05/readme.md)
+* **Lab 06**: [Advanced Procedures and Stack Usage](Lab06/readme.md)
+* **Lab 07**: [String Manipulation and Palindrome Check](Lab07/readme.md)
+* **Lab 08**: [Encryption and Decryption Algorithms](Lab08/readme.md)
+* **Quiz 01**: [Quiz 1 Solution](Quiz01/readme.md)
+* **Quiz 02**: [Quiz 2 Solution](Quiz02/readme.md)
+* **Final Exam**: [Final Exam Solution](FinalExam/readme.md)
 
 ---
 
